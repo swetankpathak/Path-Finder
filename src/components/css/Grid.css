@@ -1,0 +1,22 @@
+th{
+   
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(8, 12, 216);
+    height : 35px;
+    width : 35px;
+    padding : 3%;
+}
+table, th, tr {
+    
+    
+    border-collapse: collapse;
+    padding: 0;
+
+}
+
+.grid-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
